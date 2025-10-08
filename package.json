@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
+    "@emotion/styled": "^11.14.1",
     "@heroicons/react": "^1.0.5",
     "@metaplex-foundation/js": "^0.18.0",
     "@metaplex-foundation/mpl-trifle": "^0.3.2",
